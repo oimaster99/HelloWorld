@@ -2,7 +2,7 @@
 
 This Program is designed to test Repo publishing. This program simply prints **Hello World**
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/tLxpo4uqM4A)
 
 # Development Environment
 
@@ -12,6 +12,4 @@ Python was the primary language used
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+None used for this Project.
